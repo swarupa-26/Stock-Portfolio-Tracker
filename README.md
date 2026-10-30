@@ -1,6 +1,4 @@
-# project-1-
-
-Stock Portfolio Tracker
+# project- Stock Portfolio Tracker
 
 A simple and interactive Python command-line application that allows users to track their stock investments.
 It calculates the total portfolio value using hardcoded stock prices and gives the option to save a summary to a text file.
